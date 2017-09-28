@@ -32,7 +32,7 @@ gem 'donatable', git: 'https://github.com/andygimma/donatable'
 
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'jquery-rails'
-# gem 'pg_search'
+gem 'pg_search'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
