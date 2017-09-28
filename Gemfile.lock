@@ -1,6 +1,5 @@
-GIT
-  remote: https://github.com/andygimma/donatable
-  revision: 2a7d9a01e5b2fc15e22846497c07afbc33fe0886
+PATH
+  remote: ../donatable
   specs:
     donatable (0.1.0)
       rails (~> 5.1.4)
