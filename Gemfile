@@ -28,7 +28,6 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 gem 'donatable', git: 'https://github.com/andygimma/donatable'
-# gem 'donatable', path: '../donatable'
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'jquery-rails'
 gem 'pg_search'
